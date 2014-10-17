@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kqg:home|Door43 (kqg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kqg|d43-kqg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kqg/archive/master.zip|d43-kqg.zip]]
+
+**Recent Changes**
+{{changes>ns = kqg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kqg|Ethnologue data]]
+
